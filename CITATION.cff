@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this methodology using the preferred-citation metadata."
+title: "The R3TURN Buyer Readability Methodology"
+version: "4.1"
+authors:
+  - name: "R3TURN"
+    website: "https://www.r3turn.io"
+url: "https://www.r3turn.io/en/methodology"
+preferred-citation:
+  type: report
+  title: "The R3TURN Buyer Readability Methodology"
+  version: "4.1"
+  year: 2026
+  authors:
+    - name: "R3TURN"
+      website: "https://www.r3turn.io"
+  url: "https://www.r3turn.io/en/methodology"
